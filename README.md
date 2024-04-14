@@ -15,7 +15,7 @@ Faced with marvellous opportunities, data mining techinique is ubiquitous and in
 
 **Topics** | **Algorithms** 
 --- | --- 
-Frequent Item Sets | SON, Apiori
+Frequent Item Sets | SON, Apriori
 Social Network Graphs | LPA, Girvan-Newman
 Streaming | Bloom Filtering, Flajolet-Martin, Fixed Size Sample 
 Clustering | BFR, KNN
